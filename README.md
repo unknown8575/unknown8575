@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Yash Gupta! 👋
 
-<!--
-**unknown8575/unknown8575** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Software Engineer & Data Science Aspirant
+I am a **BS Data Science student at IIT Madras**, currently bridging the gap between theoretical algorithms and real-world software engineering. I love solving complex problems using **Data Structures & Algorithms** and building scalable web applications.
 
-Here are some ideas to get you started:
+- 🏆 **Hackathon Winner:** Secured **1st Position** at "Hack with UttarPradesh 2025" (Chandigarh University) for building [City-Fix](https://city-fix-teal.vercel.app/).
+- 🎓 **Education:** BS in Data Science & Applications (**IIT Madras**) + BCA.
+- 💡 **Internship:** Former Technical Intern at **GeeksforGeeks** (DSA & Software Foundations).
+- 🏅 **Certifications:** NPTEL Elite in **OOPs** (Score: 86%) & Data Structures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+* **Languages:** C++, Python, JavaScript, TypeScript, SQL
+* **Frontend:** React.js, HTML5, CSS3
+* **Tools:** Git, GitHub, VS Code, Google AI Studio
+
+---
+
+### 📈 GitHub Stats
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=unknown8575&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unknown8575&layout=compact&theme=radical)](https://github.com/unknown8575)
+
+---
+
+### 📫 Connect with me
+* [LinkedIn](https://www.linkedin.com/in/yash8575/)
