@@ -17,10 +17,5 @@ I am a **BS Data Science student at IIT Madras**, currently bridging the gap bet
 
 ---
 
-### 📈 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unknown8575&layout=compact&theme=radical)](https://github.com/unknown8575)
-
----
-
 ### 📫 Connect with me
 * [LinkedIn](https://www.linkedin.com/in/yash8575/)
