@@ -15,7 +15,3 @@ I am a **BS Data Science student at IIT Madras**, currently bridging the gap bet
 * **Frontend:** React.js, HTML5, CSS3
 * **Tools:** Git, GitHub, VS Code, Google AI Studio
 
----
-
-### 📫 Connect with me
-* [LinkedIn](https://www.linkedin.com/in/yash8575/)
